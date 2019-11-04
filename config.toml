@@ -1,0 +1,4 @@
+baseURL = "http://nevenc.com/"
+languageCode = "en-us"
+title = "Hugo Example"
+theme = "ananke"
